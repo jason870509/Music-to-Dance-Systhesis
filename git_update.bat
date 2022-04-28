@@ -1,3 +1,3 @@
 git add . 
-git commit -m "update data"
+git commit -m "second commit"
 git push -u origin main
